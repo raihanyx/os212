@@ -13,3 +13,4 @@ ZCZC W01 20 L12 Assignment #02 Importing and Exporting OVA, Putty and WinSCP set
 ZCZC W01 45 L13 Assignment #03 GSGS and trying it in cmd
 ZCZC W01 35 L14 Assignment #04 Dressing up Virtual Guest
 ZCZC W01 30 L15 Assignment #05 SSH and Git Cloning
+ZCZC W01 15 L16 Assignment #06 GSGS About markdown and using it
