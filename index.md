@@ -7,6 +7,6 @@ My name is Raihan Fadhila Sukmana
 Contents
 * [Github Repository](https://github.com/raihanyx/os212)
 * [Logs](https://raihanyx.github.io/os212/TXT/mylog.txt)
-* [Links](https://www.example.com)
+* [Links](links.md)
 
 
