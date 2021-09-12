@@ -15,6 +15,6 @@ ZCZC W01 35 L14 Assignment #04 Dressing up Virtual Guest
 ZCZC W01 30 L15 Assignment #05 SSH and Git Cloning
 ZCZC W01 15 L16 Assignment #06 GSGS About markdown and using it
 ZCZC W01 20 L17 Assignment #07 Updating mylog.txt
-ZCZC W01 30 L18 Assignment #08 Reading some material
-ZCZC W01 30 L19 Assignment #09 Reading some material
+ZCZC W01 90 L18 Assignment #08 Reading some material
+ZCZC W01 60 L19 Assignment #09 Reading some material
 
