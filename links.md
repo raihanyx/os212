@@ -5,3 +5,6 @@ This Markdown cheat sheet provides a quick overview of all the Markdown syntax e
 
 2. [Linux - Tutorial for Beginners](https://www.youtube.com/watch?v=BMGixkvJ-6w)<br>
 Video explaining about the basic of linux, very useful for beginners.
+
+3. [Main link for OS Course](https://os.vlsm.org/)<br>
+Anything with OS Course related.
