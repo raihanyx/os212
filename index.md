@@ -1,5 +1,5 @@
 ### OS212
-### My name is Raihan Fadhila Sukmana
+### My name is Raihan Fadhila Sukmana.
 ##### Welcome to my page!
 ---
 Below here are the important links that you may want to check out!
