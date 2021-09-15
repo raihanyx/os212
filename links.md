@@ -1,3 +1,8 @@
+---
+layout: "layout"
+permalink: /LINKS/
+---
+
 # LINKS
 
 1. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)<br>
