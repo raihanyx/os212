@@ -19,3 +19,10 @@ ZCZC W01 90 L18 Assignment #08 Reading some material
 ZCZC W01 60 L19 Assignment #09 Reading some material
 ZCZC W02 100 L02 OS Zoom Class
 ZCZC W02 90 L11 Assignment #01 Reading some material
+ZCZC W02 25 L12 Assignment #02 
+ZCZC W02 270 L13 Assignment #03 Watching Cyber Security Introduction
+ZCZC W02 10 L14 Assignment #04 Generate GnuPG Key Pair
+ZCZC W02 15 L15 Assignment #05 Listing Keys
+ZCZC W02 15 L16 Assignment #06 Importing ospubkey.txt Key
+ZCZC W02 15 L17 Assignment #07 Signing Operating Systems public key
+ZCZC W02 15 L18 Assignment #08 Exporting mypubkey.txt into github
