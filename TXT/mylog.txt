@@ -26,3 +26,9 @@ ZCZC W02 15 L15 Assignment #05 Listing Keys
 ZCZC W02 15 L16 Assignment #06 Importing ospubkey.txt Key
 ZCZC W02 15 L17 Assignment #07 Signing Operating Systems public key
 ZCZC W02 15 L18 Assignment #08 Exporting mypubkey.txt into github
+ZCZC W02 25 L19 Assignment #09 Updating Links for week 02
+ZCZC W02 20 L20 Assignment #10 Reviewing peer links
+ZCZC W02 10 L09 Assignment #11 Making myscript.sh file
+ZCZC W02 20 L03 Doing some changes in my github page
+ZCZC W02 15 L09 Assignment #12 Updating mylog.txt
+ZCZC W02 20 L09 Assignment #13 Generating SHA256SUM and SHA256SUM.asc
