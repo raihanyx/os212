@@ -2,7 +2,8 @@
 permalink: /LINKS/
 ---
 
-# LINKS
+# USEFUL LINKS
+These are the links that i find useful for Operating Systems course. Go check them out!
 ---
 # Week 1
 1. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)<br>
