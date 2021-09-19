@@ -4,7 +4,8 @@ permalink: /LINKS/
 ---
 
 # LINKS
-
+---
+# Week 1
 1. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)<br>
 This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax.](https://www.markdownguide.org/extended-syntax)
 
@@ -13,3 +14,13 @@ Video explaining about the basic of linux, very useful for beginners.
 
 3. [Main link for OS Course](https://os.vlsm.org/)<br>
 Anything with OS Course related.
+
+# Week 2
+1. [C Programming Course](https://www.sololearn.com/learning/1089)<br>
+C Programming course and tutorial covers basic concepts, data types, arrays, pointers, conditional statements, loops, functions, strings, structures, unions, and much more.
+
+2. [Encryption and Decryption](https://www.geeksforgeeks.org/difference-between-encryption-and-decryption/)<br>
+Explaining about the difference between Encryption and Decryption
+
+3. [GnuPG](https://gnupg.org/documentation/manpage.html)<br>
+Anything with GnuPG related and its commands.
