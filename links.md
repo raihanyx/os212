@@ -24,3 +24,7 @@ Explaining about the difference between Encryption and Decryption
 
 3. [GnuPG](https://gnupg.org/documentation/manpage.html)<br>
 Anything with GnuPG related and its commands.
+
+# Week 3
+1. [Linux Commands](https://www.tutorialspoint.com/unix_commands/index.htm)<br>
+List of useful Linux commands.
