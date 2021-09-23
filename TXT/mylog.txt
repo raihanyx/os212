@@ -38,3 +38,6 @@ ZCZC W03 45 L12 Assignment #02 Try Demos
 ZCZC W03 30 L13 Assignment #03 Reading and Trying some problems
 ZCZC W03 25 L14 Assignment #04 Updating and Checking "bash_aliases"
 ZCZC W03 50 L15 Assignment #05 Add and Creating extra virtual disk 
+ZCZC W03 30 L16 Assignment #06 Updating bookmark links
+ZCZC W03 30 L17 Assignment #07 Reviewing peer links
+ZCZC W03 30 L18 Assignment #08 Updating log
