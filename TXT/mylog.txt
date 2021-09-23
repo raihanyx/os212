@@ -32,3 +32,9 @@ ZCZC W02 10 L09 Assignment #11 Making myscript.sh file
 ZCZC W02 20 L03 Doing some changes in my github page
 ZCZC W02 15 L09 Assignment #12 Updating mylog.txt
 ZCZC W02 20 L09 Assignment #13 Generating SHA256SUM and SHA256SUM.asc
+ZCZC W03 100 L02 OS Zoom Class
+ZCZC W03 70 L11 Assignment #01 Reading some material
+ZCZC W03 45 L12 Assignment #02 Try Demos
+ZCZC W03 30 L13 Assignment #03 Reading and Trying some problems
+ZCZC W03 25 L14 Assignment #04 Updating and Checking "bash_aliases"
+ZCZC W03 50 L15 Assignment #05 Add and Creating extra virtual disk 
