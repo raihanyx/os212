@@ -41,3 +41,4 @@ ZCZC W03 50 L15 Assignment #05 Add and Creating extra virtual disk
 ZCZC W03 30 L16 Assignment #06 Updating bookmark links
 ZCZC W03 30 L17 Assignment #07 Reviewing peer links
 ZCZC W03 30 L18 Assignment #08 Updating log
+ZCZC W03 25 L19 Assignment #09 Updating myscript.sh and Submitting Week 03 Assignments
