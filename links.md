@@ -28,3 +28,9 @@ Anything with GnuPG related and its commands.
 # Week 3
 1. [Linux Commands](https://www.tutorialspoint.com/unix_commands/index.htm)<br>
 List of useful Linux commands.
+
+2. [Operating Systems Structures of Directory](https://tutorialspoint.dev/computer-science/operating-systems/operating-system-structures-of-directory)<br>
+Shows everything about the Structures of directory in Operating Systems
+
+3. [File System Concept](https://www.youtube.com/watch?v=mzUyMy7Ihk0)<br>
+Explaining the Concept of File System
