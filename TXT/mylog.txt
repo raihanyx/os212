@@ -42,3 +42,14 @@ ZCZC W03 30 L16 Assignment #06 Updating bookmark links
 ZCZC W03 30 L17 Assignment #07 Reviewing peer links
 ZCZC W03 30 L18 Assignment #08 Updating log
 ZCZC W03 25 L19 Assignment #09 Updating myscript.sh and Submitting Week 03 Assignments
+ZCZC W04 100 L02 OS Zoom Class
+ZCZC W04 60 L11 Assignment #01 Reading some material
+ZCZC W04 30 L12 Assignment #02 Try Demos
+ZCZC W04 30 L13 Assignment #03 Reading and Trying some problems
+ZCZC W04 15 L14 Assignment #04 Install Package List 2 (TLPI)
+ZCZC W04 50 L15 Assignment #05 Fetch and Extract File ”WEEK04.tar.bz2.asc”
+ZCZC W04 30 L16 Assignment #06 Updating bookmark links
+ZCZC W04 30 L17 Assignment #07 Reviewing peer links
+ZCZC W04 30 L18 Assignment #08 Updating log
+ZCZC W04 25 L19 Assignment #09 Updating myscript.sh and Submitting Week 03 Assignments
+ZCZC W04 30 L64 Helping a friend with Week 04 Assignment Related
