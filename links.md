@@ -32,3 +32,9 @@ Shows everything about the Structures of directory in Operating Systems
 
 9. [File System Concept](https://www.youtube.com/watch?v=mzUyMy7Ihk0)<br>
 Explaining the Concept of File System
+
+10. [Shared Libraries in Linux](https://www.tecmint.com/understanding-shared-libraries-in-linux/)<br>
+Explaining about Libraries in Linux and how to locate and manage it
+
+11. [Static Libraries vs. Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
+Explaining about how static and dynamic libraries work in C programs, its advantages and disadvantages and more.
