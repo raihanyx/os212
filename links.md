@@ -38,3 +38,9 @@ Explaining about Libraries in Linux and how to locate and manage it
 
 11. [Static Libraries vs. Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
 Explaining about how static and dynamic libraries work in C programs, its advantages and disadvantages and more.
+
+12. [Virtual Memory in Operating Systems](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Explaining the Concept of Virtual Memory in Operating Systems
+
+13. [Page Replacement Algorithms in Operating Systems](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>
+Explaining the Concept of Page Replacement Algorithms in Operating Systems
