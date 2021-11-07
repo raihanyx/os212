@@ -47,3 +47,9 @@ Explaining the Concept of Page Replacement Algorithms in Operating Systems
 
 14. [Multithreading](https://www.youtube.com/watch?v=0KAGazeMZ2o)<br>
 Explaining the Concept of Multithreading
+
+15. [Deadlock Characterization](https://www.tutorialspoint.com/deadlock-characterization)<br>
+Explaining about deadlock characterization
+
+16. [Banker's Algorithm](https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/#:~:text=The%20banker's%20algorithm%20is%20a,should%20be%20allowed%20to%20continue)<br>
+Explaining Banker’s Algorithm in Operating System
