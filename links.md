@@ -53,3 +53,10 @@ Explaining about deadlock characterization
 
 16. [Banker's Algorithm](https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/#:~:text=The%20banker's%20algorithm%20is%20a,should%20be%20allowed%20to%20continue)<br>
 Explaining Banker’s Algorithm in Operating System
+
+
+17. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+Anything about linux from scratch
+
+18. [Process/Thread Scheduling](https://os.cs.luc.edu/scheduling.html/)<br>
+Explaining about Process/Thread Scheduling in linux
